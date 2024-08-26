@@ -1,0 +1,15 @@
+CSS UNITS:-
+there are multiple if units of css.
+1.px-pixel-it is fixed for screen
+
+2.%-percentage-it depends on their parent element
+
+3.VW-viewport width,VH-viewport height
+-it depends on total screen size ,if the screen size is small then they automatically adjust by the screen size.
+
+4.VMAX-viewport maximum,VMIN-viewport minimum
+-in vmax when the screen height is bigger than the screen with it will automatically stop and break their line into a new line
+ EM&REM(Homework)
+ 5.EM-when we given a parent element value then that parent elementy is our 1em then automatically it reflects all the child element as well.
+
+ 6.REM-1 rem be alway 16 pixel.
